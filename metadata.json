@@ -1,0 +1,6 @@
+{
+  "name": "Kinetix Arc OS",
+  "description": "A high-performance Windows 11 style web operating system with App Engine, File Explorer (media support), Quick Settings, and more.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
